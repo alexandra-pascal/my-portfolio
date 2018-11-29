@@ -1,0 +1,31 @@
+.header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 50px;
+}
+.wrap-logo{
+  padding: 1em 9% 0;
+}
+.logo {
+  width: 50px;
+  height: 50px;
+}
+.line {
+  height: .7px;
+  background: grey;
+  margin-top: 1em;
+  transform: scaleX(0);
+  transform-origin: left;
+  animation: grow-left cubic-bezier(0.785, 0.135, 0.15, 0.86) 1s forwards;
+  animation-delay: 1s;
+}
+@keyframes grow-left {
+  from {
+    transform: scaleX(0);
+  }
+  to {
+    transform: scaleX(1);
+  }
+}
