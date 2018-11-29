@@ -10,6 +10,7 @@ export default class App extends React.Component {
       <div className="App">
         <Hero />
         <Description />
+        <div className="wrap-buttons"></div>
         <Button />
       </div>
     );
