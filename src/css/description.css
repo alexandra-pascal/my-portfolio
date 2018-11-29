@@ -1,0 +1,18 @@
+.wrap-description {
+  width: 60%;
+  margin: 10em 10%;
+}
+.title-description {
+  font-size: 2em;
+  font-weight: 900;
+  font-family: Montserrat;
+}
+.text-description {
+  margin-top: 3em;
+}
+@media (max-width: 600px) {
+  .wrap-description {
+    width: 80%;
+    margin: 4em auto;
+  }
+}

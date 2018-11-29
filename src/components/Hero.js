@@ -1,10 +1,10 @@
 import React from "react";
 import Header from "./Header";
 import logo from "../img/logo.png";
-import "../css/header.css";
-import "../css/hero.css";
 import arrow from "../img/arrow.png";
 import heroPicture from "../img/heroPicture.jpg";
+import "../css/header.css";
+import "../css/hero.css";
 
 export default class Details extends React.Component {
   constructor() {
