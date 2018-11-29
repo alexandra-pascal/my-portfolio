@@ -1,15 +1,18 @@
 import React from "react";
-import Hero from "./Hero";
-import Description from "./Description";
+import { BrowserRouter as Router, Route } from "react-router-dom";
+import Home from "./Home";
+import Portfolio from "./Portfolio";
 import "../css/App.css";
 
 export default class App extends React.Component {
   render() {
     return (
-      <div className="App">
-        <Hero />
-        <Description/>
-      </div>
+      <Router>
+        <div className="App">
+          <Route exact path="/" component={Home} />
+          <Route path="/portfolio" component={Portfolio} />
+        </div>
+      </Router>
     );
   }
 }

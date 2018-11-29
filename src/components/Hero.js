@@ -35,7 +35,6 @@ export default class Details extends React.Component {
           </div>
         </div>
       </div>
-
     );
   }
 }
