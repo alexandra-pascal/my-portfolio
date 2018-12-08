@@ -1,4 +1,5 @@
 import React from "react";
+import DrawerToggleButton from "./../SideDrawer/DrawerToggleButton";
 import "./Toolbar.css";
 
 export default function Toolbar(props) {
@@ -8,7 +9,9 @@ export default function Toolbar(props) {
         <div className="toolbar__logo">
           <a href="/">LOGO</a>
         </div>
-        <div className="DrawerToggleButton" />
+        <div>
+          <DrawerToggleButton />
+        </div>
       </nav>
     </header>
   );
