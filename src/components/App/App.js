@@ -20,17 +20,15 @@ export default class App extends React.Component {
     this.setState({sideDrawerOpen: false})
   }
   render() {
-    let sideDrawer;
     let backDrop;
     if (this.state.sideDrawerOpen) {
-      sideDrawer = <SideDrawer />;
       backDrop = <BackDrop click={this.backDropClickHandler}/>;
     }
     return (
       <Router>
         <div className="App">
           <Toolbar drawerClickHandler={this.drawerToggleClickHandler} />
-          {sideDrawer}
+          <SideDrawer show={this.state.sideDrawerOpen}/>
           {backDrop}
           <main className="main">
             <p>My portfolio</p>
