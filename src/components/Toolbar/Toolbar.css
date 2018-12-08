@@ -7,7 +7,7 @@
   padding: 2rem 0;
 }
 .toolbar__navigation {
-  width: 80%;
+  width: 85%;
   margin: auto;
   height: 100%;
   display: flex;
@@ -15,10 +15,9 @@
   align-items: center;
   padding: 0 1rem;
 }
-.toolbar__logo a {
-  color: white;
-  text-decoration: none;
-  font-size: 1.5rem;
+.toolbar__logo {
+  width: 50px;
+  height: 50px;
 }
 @media (min-width: 700px) {
   .toolbar {
