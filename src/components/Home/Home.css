@@ -2,5 +2,6 @@
   .home-wrap {
     display: flex;
     align-items: center;
+    background: #f4f4f0;
   }
 }

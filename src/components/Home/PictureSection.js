@@ -1,5 +1,5 @@
 import React from "react";
-import MainPicture from "./../../img/me-green.jpg";
+import MainPicture from "./../../img/me-red2.jpg";
 import WhiteLine from "./../WhiteLine/WhiteLine";
 import "./PictureSection.css";
 
