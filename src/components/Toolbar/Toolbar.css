@@ -1,0 +1,26 @@
+.toolbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: grey;
+  z-index: 1;
+  height: 56px;
+}
+.toolbar__navigation {
+  width: 80%;
+  margin: auto;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 1rem;
+}
+.toolbar__logo {
+  margin-left: 1rem;
+}
+.toolbar__logo a {
+  color: white;
+  text-decoration: none;
+  font-size: 1.5rem;
+}
