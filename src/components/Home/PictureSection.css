@@ -1,0 +1,8 @@
+.picture-section-wrap {
+  background: yellow;
+}
+@media (min-width: 700px) {
+  .picture-section-wrap {
+    flex: 1;
+  }
+}

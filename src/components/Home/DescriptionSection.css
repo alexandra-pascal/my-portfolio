@@ -1,0 +1,8 @@
+.description-section-wrap {
+  background: pink;
+}
+@media (min-width: 700px) {
+  .description-section-wrap {
+    flex: 1;
+  }
+}

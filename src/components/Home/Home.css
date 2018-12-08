@@ -1,0 +1,11 @@
+@media (min-width: 700px) {
+  .home-wrap {
+    display: flex;
+  }
+  .picture-section {
+    flex: 1;
+  }
+  .description-section {
+    flex: 1;
+  }
+}

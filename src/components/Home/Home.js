@@ -1,10 +1,13 @@
-import React from 'react';
-import './Home.css'
+import React from "react";
+import PictureSection from "./PictureSection";
+import DescriptionSection from "./DescriptionSection";
+import "./Home.css";
 
 export default function Home() {
   return (
     <div className="home-wrap">
-      <div>this is home</div>
+      <PictureSection />
+      <DescriptionSection />
     </div>
-  )
+  );
 }
