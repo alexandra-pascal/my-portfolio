@@ -1,3 +1,19 @@
 .wrap-white-line {
   margin-bottom: 1rem;
+  opacity: 0;
+  animation: fade-in-right ease 1s forwards;
 }
+.wrap-white-line {
+  animation-delay: 0.8s;
+}
+@keyframes fade-in-right {
+  from {
+    opacity: 0;
+    transform: translateX(-15px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
