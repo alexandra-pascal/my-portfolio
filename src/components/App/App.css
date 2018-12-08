@@ -9,6 +9,13 @@ img {
   display: block;
   object-fit: cover;
 }
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
 main {
   margin-top: 64px;
+  flex: 1;
 }
