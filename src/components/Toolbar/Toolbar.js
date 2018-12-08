@@ -10,7 +10,7 @@ export default function Toolbar(props) {
           <a href="/">LOGO</a>
         </div>
         <div>
-          <DrawerToggleButton />
+          <DrawerToggleButton click={props.drawerClickHandler}/>
         </div>
       </nav>
     </header>
