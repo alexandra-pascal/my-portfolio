@@ -13,5 +13,6 @@
   .description-section-wrap {
     flex: 1;
     padding: 0 4rem;
+    position: relative;
   }
 }

@@ -1,0 +1,26 @@
+.vertical-line {
+  display: none;
+}
+@media(min-width: 700px) {
+  .vertical-line {
+    display: block;
+    width: 1px;
+    background: grey;
+    height: 100vh;
+    margin-left: 4px;
+  }
+  @keyframes grow {
+    from {
+      transform: scaleX(0);
+    }
+    to {
+      transform: scaleX(1);
+    }
+  }
+  .vertical-line {
+    transform: scaleX(0);
+    transform-origin: left;
+    animation: grow cubic-bezier(0.785, 0.135, 0.15, 0.86) 0.5s forwards;
+    animation-delay: 0.4s;
+  }
+}
