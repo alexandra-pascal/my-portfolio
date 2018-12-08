@@ -1,18 +1,11 @@
 import React from "react";
+import MainPicture from './../../img/me-green.jpg';
 import "./PictureSection.css";
 
 export default function PictureSection() {
   return (
     <div className="picture-section-wrap">
-      <div>this is picture</div>
-      <div>this is picture</div>
-      <div>this is picture</div>
-      <div>this is picture</div>
-      <div>this is picture</div>
-      <div>this is picture</div>
-      <div>this is picture</div>
-      <div>this is picture</div>
-      <div>this is picture</div>
+      <img src={MainPicture} alt="Alexandra Pascal"/>
     </div>
   );
 }
