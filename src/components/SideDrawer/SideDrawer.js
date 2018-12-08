@@ -1,19 +1,23 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import "./SideDrawer.css";
 
 export default function SideDrawer(props) {
-  let drawerClasses = 'side-drawer';
+  let drawerClasses = "side-drawer";
   if (props.show) {
-    drawerClasses = 'side-drawer open';
+    drawerClasses = "side-drawer open";
   }
   return (
     <nav className={drawerClasses}>
       <ul>
         <li>
-          <a href="/">Products</a>
+          <Link to="/skills">Skills</Link>
         </li>
         <li>
-          <a href="/">Users</a>
+          <Link to="/portfolio">Portfolio</Link>
+        </li>
+        <li>
+          <Link to="/contact">Contact</Link>
         </li>
       </ul>
     </nav>
