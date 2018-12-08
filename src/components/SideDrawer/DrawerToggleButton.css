@@ -14,12 +14,14 @@
   outline: none;
 }
 .toggle-button__line {
-  width: 30px;
+  width: 40px;
   height: 1px;
   background: white;
 }
 @media (min-width: 700px) {
   .toggle-button__line {
     background: black;
+    height: 2.5px;
+    border-radius: 25px;
   }
 }
