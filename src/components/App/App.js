@@ -4,7 +4,7 @@ import Toolbar from "./../Toolbar/Toolbar";
 import Footer from "./../Footer/Footer";
 import SideDrawer from "../SideDrawer/SideDrawer";
 import BackDrop from "../BackDrop/BackDrop";
-import Home from "./../Home/Home";
+import Routes from "./../Routes";
 import "./App.css";
 
 export default class App extends React.Component {
@@ -32,7 +32,7 @@ export default class App extends React.Component {
           <SideDrawer show={this.state.sideDrawerOpen}/>
           {backDrop}
           <main className="main">
-            <Home/>
+            <Routes/>
           </main>
           <Footer />
         </div>
