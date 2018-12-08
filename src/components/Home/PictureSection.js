@@ -8,7 +8,7 @@ export default function PictureSection() {
     <div className="picture-section-wrap">
       <img src={MainPicture} alt="Alexandra Pascal" />
       <div className="wrap-hello">
-        <p className="hello">Hello, </p>
+        <p className="hello">Hello</p>
         <WhiteLine />
         <p className="hello-subtitle">I'm Alex. Nice to meet you</p>
       </div>
