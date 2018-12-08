@@ -16,12 +16,15 @@ export default class App extends React.Component {
       return { sideDrawerOpen: !prevState.sideDrawerOpen };
     });
   };
+  backDropClickHandler = () => {
+    this.setState({sideDrawerOpen: false})
+  }
   render() {
     let sideDrawer;
     let backDrop;
     if (this.state.sideDrawerOpen) {
       sideDrawer = <SideDrawer />;
-      backDrop = <BackDrop />;
+      backDrop = <BackDrop click={this.backDropClickHandler}/>;
     }
     return (
       <Router>
