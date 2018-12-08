@@ -5,7 +5,6 @@ export default function DescriptionSection() {
   return (
     <div className="description-section-wrap">
       <p className="description-title">Front-end developer</p>
-      <p className="description-title">Designer</p>
       <p className="description-text">
         Java Script, consectetur adipisicing elit, sed do eiusmod tempor
         incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
