@@ -1,9 +1,32 @@
 .picture-section-wrap {
-  height: 70vh;
+  position: relative;
+  height: 90vh;
+}
+.wrap-hello {
+  position: absolute;
+  color: white;
+  left: 0;
+  bottom: 0;
+  margin: 35% 15%;
+}
+.hello {
+  font-size: 6rem;
+  font-family: "Raleway";
+  margin-bottom: 1rem;
+}
+.hello-subtitle {
+  font-size: 1.8rem;
+  font-family: "Poiret One";
 }
 @media (min-width: 700px) {
   .picture-section-wrap {
     width: 65%;
     height: 100vh;
+  }
+  .wrap-hello {
+    margin: 20% 15%;
+  }
+  .hello {
+    font-size: 8rem;
   }
 }
