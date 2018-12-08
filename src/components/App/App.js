@@ -1,6 +1,7 @@
 import React from "react";
 import { HashRouter as Router } from "react-router-dom";
-import Toolbar from "../Toolbar/Toolbar";
+import Toolbar from "./../Toolbar/Toolbar";
+import "./App.css";
 
 export default class App extends React.Component {
   render() {
@@ -8,7 +9,9 @@ export default class App extends React.Component {
       <Router>
         <div className="App">
           <Toolbar />
-          <p>My portfolio</p>
+          <main className="main">
+            <p>My portfolio</p>
+          </main>
         </div>
       </Router>
     );

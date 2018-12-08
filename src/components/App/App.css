@@ -9,3 +9,6 @@ img {
   display: block;
   object-fit: cover;
 }
+main {
+  margin-top: 64px;
+}
