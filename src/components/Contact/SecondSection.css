@@ -1,5 +1,13 @@
 .second-section-wrap {
-  height: 400px;
+  /* height: 400px; */
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  padding: 7rem 0;
+}
+.london {
+  font-size: 2rem;
+  font-family: 
 }
 @media(min-width: 700px) {
   .second-section-wrap {
