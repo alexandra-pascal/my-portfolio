@@ -1,5 +1,4 @@
 .wrap-white-line {
-  margin-bottom: 1rem;
   opacity: 0;
   animation: fade-in-right ease 1s forwards;
 }
