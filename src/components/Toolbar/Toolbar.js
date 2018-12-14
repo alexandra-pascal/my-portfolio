@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from 'react-router-dom';
 import DrawerToggleButton from "./../SideDrawer/DrawerToggleButton";
 import Logo from "./../../img/logo.svg";
 import "./Toolbar.css";
@@ -8,9 +9,9 @@ export default function Toolbar(props) {
     <header className="toolbar">
       <nav className="toolbar__navigation">
         <div className="toolbar__logo">
-          <a href="/">
+          <Link to="/">
             <img src={Logo} alt="logo"/>
-          </a>
+          </Link>
         </div>
         <div>
           <DrawerToggleButton click={props.drawerClickHandler}/>
