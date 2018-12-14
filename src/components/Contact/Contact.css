@@ -1,0 +1,11 @@
+.contact-wrap {
+  display: flex;
+  flex-direction: column;
+}
+@media (min-width: 700px) {
+  .contact-wrap {
+    flex-direction: row;
+    align-items: center;
+    background: #f4f4f0;
+  }
+}

@@ -1,0 +1,11 @@
+.first-section-wrap {
+  height: 700px;
+  background: black;
+  color: white;
+}
+@media(min-width: 700px) {
+  .first-section-wrap {
+    height: 100vh;
+    width: 70%;
+  }
+}

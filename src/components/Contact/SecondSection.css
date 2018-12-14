@@ -1,0 +1,9 @@
+.second-section-wrap {
+  height: 400px;
+}
+@media(min-width: 700px) {
+  .second-section-wrap {
+    flex: 1;
+    height: 100vh;
+  }
+}
