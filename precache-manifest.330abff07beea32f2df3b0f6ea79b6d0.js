@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "46536a7da5ea8e731a47",
-    "url": "/my-portfolio/static/css/main.dfa75669.chunk.css"
+    "revision": "9df1adff29c2f059faaa",
+    "url": "/my-portfolio/static/css/main.0cf6ae65.chunk.css"
   },
   {
-    "revision": "46536a7da5ea8e731a47",
-    "url": "/my-portfolio/static/js/main.46536a7d.chunk.js"
+    "revision": "9df1adff29c2f059faaa",
+    "url": "/my-portfolio/static/js/main.9df1adff.chunk.js"
   },
   {
-    "revision": "5bfd37520e05038b16e9",
-    "url": "/my-portfolio/static/css/1.e70758a6.chunk.css"
+    "revision": "e3f734fdd504bf46d3c0",
+    "url": "/my-portfolio/static/css/1.9aa651ff.chunk.css"
   },
   {
-    "revision": "5bfd37520e05038b16e9",
-    "url": "/my-portfolio/static/js/1.5bfd3752.chunk.js"
+    "revision": "e3f734fdd504bf46d3c0",
+    "url": "/my-portfolio/static/js/1.e3f734fd.chunk.js"
   },
   {
     "revision": "f2bb3e8d5477afa4b7c6",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/my-portfolio/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "6a34915f874faef848f7c8bf862ea78c",
+    "revision": "a3e4d5ea04e0f198646569a1c35816fa",
     "url": "/my-portfolio/index.html"
   }
 ];
