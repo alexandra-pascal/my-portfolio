@@ -11,13 +11,13 @@ export default function SideDrawer(props) {
     <nav className={drawerClasses}>
       <ul>
         <li>
-          <Link to="/skills">Skills</Link>
+          <Link to="/skills" className="menu-link">Skills</Link>
         </li>
         <li>
-          <Link to="/portfolio">Portfolio</Link>
+          <Link to="/portfolio" className="menu-link">Portfolio</Link>
         </li>
         <li>
-          <Link to="/contact">Contact</Link>
+          <Link to="/contact" className="menu-link">Contact</Link>
         </li>
       </ul>
     </nav>
