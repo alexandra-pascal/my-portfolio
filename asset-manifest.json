@@ -1,7 +1,7 @@
 {
-  "main.css": "/my-portfolio/static/css/main.05ec59a2.chunk.css",
-  "main.js": "/my-portfolio/static/js/main.1d0fb918.chunk.js",
-  "main.js.map": "/my-portfolio/static/js/main.1d0fb918.chunk.js.map",
+  "main.css": "/my-portfolio/static/css/main.df9dfc65.chunk.css",
+  "main.js": "/my-portfolio/static/js/main.bdf6496e.chunk.js",
+  "main.js.map": "/my-portfolio/static/js/main.bdf6496e.chunk.js.map",
   "static/css/1.5af4ebc2.chunk.css": "/my-portfolio/static/css/1.5af4ebc2.chunk.css",
   "static/js/1.03822129.chunk.js": "/my-portfolio/static/js/1.03822129.chunk.js",
   "static/js/1.03822129.chunk.js.map": "/my-portfolio/static/js/1.03822129.chunk.js.map",
@@ -11,9 +11,9 @@
   "static/media/me-green.jpg": "/my-portfolio/static/media/me-green.337fc279.jpg",
   "static/media/white-line.png": "/my-portfolio/static/media/white-line.cad37df1.png",
   "static/media/font-awesome.min.css": "/my-portfolio/static/media/fontawesome-webfont.912ec66d.svg",
-  "static/css/main.05ec59a2.chunk.css.map": "/my-portfolio/static/css/main.05ec59a2.chunk.css.map",
+  "static/css/main.df9dfc65.chunk.css.map": "/my-portfolio/static/css/main.df9dfc65.chunk.css.map",
   "static/css/1.5af4ebc2.chunk.css.map": "/my-portfolio/static/css/1.5af4ebc2.chunk.css.map",
   "index.html": "/my-portfolio/index.html",
-  "precache-manifest.c36b1775b774122c6555ebca7af2c864.js": "/my-portfolio/precache-manifest.c36b1775b774122c6555ebca7af2c864.js",
+  "precache-manifest.235722cef967495a47b482ebec28c581.js": "/my-portfolio/precache-manifest.235722cef967495a47b482ebec28c581.js",
   "service-worker.js": "/my-portfolio/service-worker.js"
 }
