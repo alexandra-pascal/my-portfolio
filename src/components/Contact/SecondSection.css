@@ -1,15 +1,28 @@
 .second-section-wrap {
-  /* height: 400px; */
   display: flex;
   justify-content: center;
   align-self: center;
   padding: 7rem 0;
 }
 .london {
-  font-size: 2rem;
-  font-family: 
+  font-size: 1.5rem;
+  margin-bottom: 2.5rem;
 }
-@media(min-width: 700px) {
+.wrap-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: 4rem;
+  padding: 2rem;
+}
+.wrap-icon-text {
+  display: flex;
+  margin-bottom: 2rem;
+}
+.txt {
+  margin: 0 0 0 1rem;
+}
+@media (min-width: 700px) {
   .second-section-wrap {
     flex: 1;
     height: 100vh;

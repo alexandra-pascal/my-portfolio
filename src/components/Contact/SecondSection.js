@@ -6,12 +6,12 @@ export default function SecondSection() {
     <div className="second-section-wrap">
       <div className="wrap-content">
         <div className="wrap-icon-text">
-          <div className="icon" />
-          <p className="london">London</p>
+          <i className="fa fa-location-arrow" />
+          <p className="txt london">London</p>
         </div>
         <div className="wrap-icon-text">
-          <div className="icon" />
-          <p>alexandra.pascal88@yahoo.com</p>
+          <i className="fa fa-at" />
+          <p className="txt">alexandra.pascal88@yahoo.com</p>
         </div>
       </div>
     </div>
