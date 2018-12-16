@@ -1,0 +1,52 @@
+.wrap-project {
+  background: black;
+  color: white;
+}
+.wrap-project {
+  padding: 8rem 0 2rem;
+}
+.project-title, .description-of-project {
+  width: 80%;
+  margin: auto;
+  font-size: 2rem;
+  margin-bottom: 3rem;
+  font-size: 3rem;
+  font-weight: 900;
+}
+.description-of-project {
+  margin-top: 5rem;
+  font-size: 1rem;
+  font-weight: normal;
+}
+@media(min-width: 700px){
+  .wrap-project {
+    display: flex;
+    align-items: center;
+    padding: 0;
+  }
+  .wrap-img-title {
+    width: 70%;
+    padding: 0 10rem;
+    position: relative;
+  }
+  .description-of-project {
+    height: 100vh;
+    flex: 1;
+    margin: 0;
+    background: white;
+    color: black;
+    display: flex;
+    align-items: center;
+    padding: 0 5rem;
+  }
+  .wrap-image-project {
+    height: 500px;
+  }
+  .project-title {
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    font-size: 4rem;
+    color: grey;
+  }
+}
