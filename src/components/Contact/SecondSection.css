@@ -1,8 +1,7 @@
 .second-section-wrap {
   display: flex;
   justify-content: center;
-  align-self: center;
-  padding: 7rem 0;
+  padding: 3rem 0 0;
 }
 .london {
   font-size: 1.5rem;
@@ -12,8 +11,6 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  margin-bottom: 4rem;
-  padding: 2rem;
 }
 .wrap-icon-text {
   display: flex;
@@ -26,5 +23,6 @@
   .second-section-wrap {
     flex: 1;
     height: 100vh;
+    color: black;
   }
 }
