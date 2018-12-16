@@ -1,4 +1,6 @@
 .contact-wrap {
+  background: #0c0c1f;
+  color: white;
   display: flex;
   flex-direction: column;
 }
