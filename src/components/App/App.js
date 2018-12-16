@@ -1,5 +1,6 @@
 import React from "react";
 import { HashRouter as Router } from "react-router-dom";
+import ScrollToTop from "react-router-scroll-top";
 import Toolbar from "./../Toolbar/Toolbar";
 import Footer from "./../Footer/Footer";
 import SideDrawer from "../SideDrawer/SideDrawer";
@@ -18,24 +19,26 @@ export default class App extends React.Component {
     });
   };
   backDropClickHandler = () => {
-    this.setState({sideDrawerOpen: false})
-  }
+    this.setState({ sideDrawerOpen: false });
+  };
   render() {
     let backDrop;
     if (this.state.sideDrawerOpen) {
-      backDrop = <BackDrop click={this.backDropClickHandler}/>;
+      backDrop = <BackDrop click={this.backDropClickHandler} />;
     }
     return (
       <Router>
-        <div className="App">
-          <Toolbar drawerClickHandler={this.drawerToggleClickHandler} />
-          <SideDrawer show={this.state.sideDrawerOpen}/>
-          {backDrop}
-          <main className="main">
-            <Routes/>
-          </main>
-          <Footer />
-        </div>
+        <ScrollToTop>
+          <div className="App">
+            <Toolbar drawerClickHandler={this.drawerToggleClickHandler} />
+            <SideDrawer show={this.state.sideDrawerOpen} />
+            {backDrop}
+            <main>
+              <Routes />
+            </main>
+            <Footer />
+          </div>
+        </ScrollToTop>
       </Router>
     );
   }
