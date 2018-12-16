@@ -11,7 +11,9 @@ export default function Portfolio() {
           key={index}
           title={project.title}
           image={project.img}
-          description={project.description}
+          description={project.description.map((desc, index) => (
+            <li key={index} className="li-description">{desc}</li>
+          ))}
         />
       ))}
     </div>
