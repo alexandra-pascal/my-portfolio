@@ -1,7 +1,7 @@
 .wrap-project {
   background: #0d0e20;
   color: white;
-  padding: 8rem 0 2rem;
+  padding: 8rem 0 1rem;
   position: relative;
 }
 .project-title, .description-of-project {
@@ -24,12 +24,23 @@
   list-style: none;
   color: white;
 }
+.link-portfolio {
+  display: inline-block;
+  color: white;
+  text-decoration: none;
+  font-family: 'Poiret One';
+  font-size: 1.5rem;
+}
 @media (min-width: 700px) {
   .wrap-project {
     display: flex;
     align-items: center;
     padding: 0;
   }
+  .wrap-image-project {
+    padding: 2rem;
+    height: 500px;
+}
   .wrap-img-title {
     width: 70%;
     margin-top: 8rem;
@@ -48,8 +59,22 @@
   }
   .project-title {
     position: absolute;
-    top: -15%;
-    padding: 1rem;
+    top: -20%;
+    padding: 2rem;
     font-size: 3rem;
+  }
+  .link-portfolio{
+    color: black;
+  }
+  .link-portfolio::after {
+    content: "";
+    display: block;
+    width: 0;
+    height: 1px;
+    background: black;
+    transition: width 0.3s;
+  }
+  .link-portfolio:hover::after {
+    width: 100%;
   }
 }
