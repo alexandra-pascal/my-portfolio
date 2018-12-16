@@ -7,7 +7,8 @@
   margin-bottom: 2rem;
 }
 .description-text {
-  margin-bottom: 2rem;
+  width: 80%;
+  margin: 2rem auto;
 }
 @media (min-width: 600px) {
   .description-section-wrap {
@@ -16,9 +17,11 @@
   }
   .description-title {
     font-size: 1.2rem;
+    color: black;
   }
   .description-text {
     font-size: .8rem;
+    color: black;
   }
 }
  @media (min-width: 800px) {
