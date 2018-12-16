@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import MainPicture from "./../../img/me-green.jpg";
+import MainPicture from "./../../img/me.jpg";
+import MainPictureMob from "./../../img/me-mob.jpg";
 import WhiteLine from "./../WhiteLine/WhiteLine";
 import Button from "./../Button/Button";
 import "./PictureSection.css";
@@ -8,11 +9,16 @@ import "./PictureSection.css";
 export default function PictureSection() {
   return (
     <div className="picture-section-wrap">
-      <div className="wrap-img">
-        <img src={MainPicture} alt="Alexandra Pascal" />
-      </div>
+      <picture>
+         <source
+          media="(min-width: 1200px)"
+          srcSet={MainPicture}
+          type="image/jpg"
+        />
+        <img src={MainPictureMob} alt="hero-mobile" />
+      </picture>
       <div className="wrap-hello">
-        <p className="hello"> &lt;Hello&gt; </p>
+        <p className="hello"> &lt;Hello/&gt; </p>
         <WhiteLine />
         <p className="hello-subtitle">I'm Alex. Nice to meet you</p>
         <Link to="/portfolio">
