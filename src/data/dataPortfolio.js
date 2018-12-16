@@ -4,9 +4,13 @@ import kodflix from "./../img/kodflix.jpg";
 import kodflixSmall from "./../img/kodflix-small.jpg";
 import sc from "./../img/sc.jpg";
 import scSmall from "./../img/sc-small.jpg";
+import lds from "./../img/lds.jpg";
+import ldsSmall from "./../img/lds-small.jpg";
 
 let Projects = [
   {
+    id: "kodflix",
+    link: '​https://kodflix-alexandra-pascal.herokuapp.com/',
     title: "Kodflix",
     imgBig: kodflix,
     imgSmall: kodflixSmall,
@@ -18,6 +22,8 @@ let Projects = [
     ]
   },
   {
+    id: "seasonal-cuisine",
+    link: '​http://seasonal-cuisine.herokuapp.com/',
     title: "Seasonal Cuisine",
     imgBig: sc,
     imgSmall: scSmall,
@@ -29,6 +35,8 @@ let Projects = [
     ]
   },
   {
+    id: "gentle-dental-care",
+    link: '​http://seasonal-cuisine.herokuapp.com/',
     title: "Gentle Dental Care",
     imgBig: gdc,
     imgSmall: gdcSmall,
@@ -40,7 +48,11 @@ let Projects = [
     ]
   },
   {
+    id: "london-dental-specialists",
+    link: '​https://x-el.me/',
     title: "London Dental Specialists",
+    imgBig: lds,
+    imgSmall: ldsSmall,
     description: [
       "Role: Branding / UX/UI",
       "Description: A mobile first application presentating the London Dental Specialists dental practice"
