@@ -1,23 +1,27 @@
 self.__precacheManifest = [
   {
-    "revision": "97ff9af62939e5aa35d8",
-    "url": "/my-portfolio/static/css/main.5f49e7e5.chunk.css"
+    "revision": "5a58632324d88d3caf6c",
+    "url": "/my-portfolio/static/css/main.3e7fd155.chunk.css"
   },
   {
-    "revision": "97ff9af62939e5aa35d8",
-    "url": "/my-portfolio/static/js/main.97ff9af6.chunk.js"
+    "revision": "5a58632324d88d3caf6c",
+    "url": "/my-portfolio/static/js/main.5a586323.chunk.js"
   },
   {
-    "revision": "4170f6128504104df61e",
+    "revision": "971f89d1a7dde512cb2f",
     "url": "/my-portfolio/static/css/1.f33b8af5.chunk.css"
   },
   {
-    "revision": "4170f6128504104df61e",
-    "url": "/my-portfolio/static/js/1.4170f612.chunk.js"
+    "revision": "971f89d1a7dde512cb2f",
+    "url": "/my-portfolio/static/js/1.971f89d1.chunk.js"
   },
   {
     "revision": "f2bb3e8d5477afa4b7c6",
     "url": "/my-portfolio/static/js/runtime~main.f2bb3e8d.js"
+  },
+  {
+    "revision": "a60b5d1d0dc6917f08776a16e1709cf1",
+    "url": "/my-portfolio/static/media/background.a60b5d1d.jpg"
   },
   {
     "revision": "f0726326e4bbeec9bc54192752db328e",
@@ -52,10 +56,6 @@ self.__precacheManifest = [
     "url": "/my-portfolio/static/media/sc.e9d1c335.jpg"
   },
   {
-    "revision": "a60b5d1d0dc6917f08776a16e1709cf1",
-    "url": "/my-portfolio/static/media/background.a60b5d1d.jpg"
-  },
-  {
     "revision": "af7ae505a9eed503f8b8e6982036873e",
     "url": "/my-portfolio/static/media/fontawesome-webfont.af7ae505.woff2"
   },
@@ -76,7 +76,7 @@ self.__precacheManifest = [
     "url": "/my-portfolio/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "06c7e1c4b8c55da93e8f82f9f7fa63f1",
+    "revision": "f3a959e3ad1d45fc81c4c2bbaeedbdd9",
     "url": "/my-portfolio/index.html"
   }
 ];
