@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import "./ProjectSection.css";
 
 export default function Portfolio(props) {
@@ -6,18 +7,25 @@ export default function Portfolio(props) {
     <div className="wrap-project">
       <div className="wrap-img-title">
         <div className="project-title">{props.title}</div>
-        <div className="wrap-image-project">
-          <picture>
-            <source
-              media="(min-width: 500px)"
-              srcSet={props.imageBig}
-              type="image/jpg"
-            />
-            <img src={props.imageSmall} alt="project" />
-          </picture>
-        </div>
+        <Link to={props.id}>
+          <div className="wrap-image-project">
+            <picture>
+              <source
+                media="(min-width: 500px)"
+                srcSet={props.imageBig}
+                type="image/jpg"
+              />
+              <img src={props.imageSmall} alt="project" />
+            </picture>
+          </div>
+        </Link>
       </div>
-      <div className="description-of-project">{props.description}</div>
+      <div className="description-of-project">
+        <div>{props.description}</div>
+        <a href={props.link} target="_blank" rel="noreferrer noopener">
+          <div className="link-portfolio">Visit Page</div>
+        </a>
+      </div>
     </div>
   );
 }
