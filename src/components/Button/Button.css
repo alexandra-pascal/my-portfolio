@@ -12,6 +12,6 @@
   transition: background 1s ease-out;
 }
 .button:hover {
-  background: rgba(232, 236, 241, 0.3);
-  border: .5px solid #fa923f;
+  background: rgba(35, 224, 225, 0.3);
+  border: .5px solid #23e0e1;
 }
