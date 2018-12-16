@@ -15,6 +15,7 @@
 .fa:before {
   font-size: 1.7rem;
   cursor: pointer;
+  color: white;
 }
 @media (min-width: 700px) {
   .footer {
