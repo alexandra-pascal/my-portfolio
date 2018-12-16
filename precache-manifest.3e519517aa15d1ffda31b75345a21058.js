@@ -1,27 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "5a58632324d88d3caf6c",
-    "url": "/my-portfolio/static/css/main.3e7fd155.chunk.css"
+    "revision": "cb3398f0659390dba65e",
+    "url": "/my-portfolio/static/css/main.77a81cde.chunk.css"
   },
   {
-    "revision": "5a58632324d88d3caf6c",
-    "url": "/my-portfolio/static/js/main.5a586323.chunk.js"
+    "revision": "cb3398f0659390dba65e",
+    "url": "/my-portfolio/static/js/main.cb3398f0.chunk.js"
   },
   {
-    "revision": "971f89d1a7dde512cb2f",
-    "url": "/my-portfolio/static/css/1.f33b8af5.chunk.css"
+    "revision": "7a0539f5f4bc904a59c2",
+    "url": "/my-portfolio/static/css/1.cf6aa622.chunk.css"
   },
   {
-    "revision": "971f89d1a7dde512cb2f",
-    "url": "/my-portfolio/static/js/1.971f89d1.chunk.js"
+    "revision": "7a0539f5f4bc904a59c2",
+    "url": "/my-portfolio/static/js/1.7a0539f5.chunk.js"
   },
   {
     "revision": "f2bb3e8d5477afa4b7c6",
     "url": "/my-portfolio/static/js/runtime~main.f2bb3e8d.js"
-  },
-  {
-    "revision": "a60b5d1d0dc6917f08776a16e1709cf1",
-    "url": "/my-portfolio/static/media/background.a60b5d1d.jpg"
   },
   {
     "revision": "f0726326e4bbeec9bc54192752db328e",
@@ -44,16 +40,28 @@ self.__precacheManifest = [
     "url": "/my-portfolio/static/media/gdc.ec1e1c74.jpg"
   },
   {
+    "revision": "748a1a973ecefb864e3900058928281d",
+    "url": "/my-portfolio/static/media/gdc-small.748a1a97.jpg"
+  },
+  {
     "revision": "3321f7bc918f241676fa36ac01a36e74",
     "url": "/my-portfolio/static/media/kodflix.3321f7bc.jpg"
   },
   {
-    "revision": "7de9bf9f9c1c6b78a80903ef493935fc",
-    "url": "/my-portfolio/static/media/dbl.7de9bf9f.jpg"
+    "revision": "ed1e3bb9fe1516815d6e85d606578713",
+    "url": "/my-portfolio/static/media/kodflix-small.ed1e3bb9.jpg"
   },
   {
     "revision": "e9d1c335f6c104514f784061aca9e720",
     "url": "/my-portfolio/static/media/sc.e9d1c335.jpg"
+  },
+  {
+    "revision": "dbae2103c9318f7a34cbcb5670048df9",
+    "url": "/my-portfolio/static/media/sc-small.dbae2103.jpg"
+  },
+  {
+    "revision": "a60b5d1d0dc6917f08776a16e1709cf1",
+    "url": "/my-portfolio/static/media/background.a60b5d1d.jpg"
   },
   {
     "revision": "af7ae505a9eed503f8b8e6982036873e",
@@ -76,7 +84,7 @@ self.__precacheManifest = [
     "url": "/my-portfolio/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "f3a959e3ad1d45fc81c4c2bbaeedbdd9",
+    "revision": "1a1b0ecb55d4007cca37229a51a9334f",
     "url": "/my-portfolio/index.html"
   }
 ];
