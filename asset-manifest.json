@@ -1,7 +1,7 @@
 {
   "main.css": "/my-portfolio/static/css/main.e0f15c88.chunk.css",
-  "main.js": "/my-portfolio/static/js/main.58da3f24.chunk.js",
-  "main.js.map": "/my-portfolio/static/js/main.58da3f24.chunk.js.map",
+  "main.js": "/my-portfolio/static/js/main.bca6b195.chunk.js",
+  "main.js.map": "/my-portfolio/static/js/main.bca6b195.chunk.js.map",
   "static/css/1.75b280ce.chunk.css": "/my-portfolio/static/css/1.75b280ce.chunk.css",
   "static/js/1.c234fae2.chunk.js": "/my-portfolio/static/js/1.c234fae2.chunk.js",
   "static/js/1.c234fae2.chunk.js.map": "/my-portfolio/static/js/1.c234fae2.chunk.js.map",
@@ -18,12 +18,12 @@
   "static/media/sc.jpg": "/my-portfolio/static/media/sc.e9d1c335.jpg",
   "static/media/sc-small.jpg": "/my-portfolio/static/media/sc-small.dbae2103.jpg",
   "static/media/lds.jpg": "/my-portfolio/static/media/lds.4acc0636.jpg",
-  "static/media/lds-small.jpg": "/my-portfolio/static/media/lds-small.c4a6bace.jpg",
+  "static/media/lds-small.jpg": "/my-portfolio/static/media/lds-small.e5f9a86f.jpg",
   "static/media/background.jpg": "/my-portfolio/static/media/background.a60b5d1d.jpg",
   "static/media/font-awesome.min.css": "/my-portfolio/static/media/fontawesome-webfont.912ec66d.svg",
   "static/css/main.e0f15c88.chunk.css.map": "/my-portfolio/static/css/main.e0f15c88.chunk.css.map",
   "static/css/1.75b280ce.chunk.css.map": "/my-portfolio/static/css/1.75b280ce.chunk.css.map",
   "index.html": "/my-portfolio/index.html",
-  "precache-manifest.3471c87f4e91a876caf36adc8a3e2b61.js": "/my-portfolio/precache-manifest.3471c87f4e91a876caf36adc8a3e2b61.js",
+  "precache-manifest.eef8de7bbc0557981b83f0654068fd4c.js": "/my-portfolio/precache-manifest.eef8de7bbc0557981b83f0654068fd4c.js",
   "service-worker.js": "/my-portfolio/service-worker.js"
 }
