@@ -1,20 +1,37 @@
 .first-section-wrap {
   height: 700px;
-  background: black;
   color: white;
   display: flex;
   justify-content: center;
   align-items: center;
+  position: relative;
+}
+.backgroung-contact {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
 }
 .wrap-text-button {
   width: 80%;
   margin: auto;
+  position: relative;
+}
+.contact-big-title {
+  color: white;
+  opacity: 0.1;
+  font-size: 4rem;
+  font-weight: 900;
+  position: absolute;
+  top: -40px;
+  left: -15px;
 }
 .contact-title {
   font-size: 3rem;
 }
 .contact-text {
-  margin: 3rem 0;
+  margin: 0 0 3rem 0;
 }
 @media (min-width: 700px) {
   .first-section-wrap {
@@ -23,5 +40,12 @@
   }
   .wrap-text-button {
     width: 60%;
+  }
+  .contact-big-title {
+    font-size: 6rem;
+    top: -60px;
+  }
+  .wrap-line-contact {
+    width: 70%;
   }
 }
