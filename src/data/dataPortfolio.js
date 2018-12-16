@@ -1,9 +1,12 @@
-import me from "./../img/me.jpg";
+import gdc from "./../img/gdc.jpg";
+import kodflix from "./../img/kodflix.jpg";
+import dbl from "./../img/dbl.jpg";
+import sc from "./../img/sc.jpg";
 
 let Projects = [
   {
     title: "Kodflix",
-    img: me,
+    img: kodflix,
     description: [
       "Role: Web Development",
       "Used technologies: React.js, Node.js, Express and Mongo.DB.",
@@ -15,7 +18,7 @@ let Projects = [
   },
   {
     title: "Seasonal Cuisine",
-    img: me,
+    img: sc,
     description: [
       "Role: Web Development",
       "Used technologies: React.js, Node.js, Express and Mongo.DB.",
@@ -27,7 +30,7 @@ let Projects = [
   },
   {
     title: "Gentle Dental Care",
-    img: me,
+    img: gdc,
     description: [
       "Role: Web Development",
       "Used technologies: React.js, Node.js, Express and Mongo.DB.",
@@ -39,7 +42,7 @@ let Projects = [
   },
   {
     title: "Digital Bee Line",
-    img: me,
+    img: dbl,
     description: [
       "Role: Web Development",
       "Used technologies: React.js, Node.js, Express and Mongo.DB.",
