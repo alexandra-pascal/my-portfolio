@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "cb3398f0659390dba65e",
-    "url": "/my-portfolio/static/css/main.77a81cde.chunk.css"
+    "revision": "58da3f245faa13b52ee0",
+    "url": "/my-portfolio/static/css/main.e0f15c88.chunk.css"
   },
   {
-    "revision": "cb3398f0659390dba65e",
-    "url": "/my-portfolio/static/js/main.cb3398f0.chunk.js"
+    "revision": "58da3f245faa13b52ee0",
+    "url": "/my-portfolio/static/js/main.58da3f24.chunk.js"
   },
   {
-    "revision": "7a0539f5f4bc904a59c2",
-    "url": "/my-portfolio/static/css/1.cf6aa622.chunk.css"
+    "revision": "c234fae2d845e0719073",
+    "url": "/my-portfolio/static/css/1.75b280ce.chunk.css"
   },
   {
-    "revision": "7a0539f5f4bc904a59c2",
-    "url": "/my-portfolio/static/js/1.7a0539f5.chunk.js"
+    "revision": "c234fae2d845e0719073",
+    "url": "/my-portfolio/static/js/1.c234fae2.chunk.js"
   },
   {
     "revision": "f2bb3e8d5477afa4b7c6",
@@ -60,6 +60,14 @@ self.__precacheManifest = [
     "url": "/my-portfolio/static/media/sc-small.dbae2103.jpg"
   },
   {
+    "revision": "4acc0636310d61ef70b52f2edbbface9",
+    "url": "/my-portfolio/static/media/lds.4acc0636.jpg"
+  },
+  {
+    "revision": "c4a6bace366bb97dba3135bfeb5cd44a",
+    "url": "/my-portfolio/static/media/lds-small.c4a6bace.jpg"
+  },
+  {
     "revision": "a60b5d1d0dc6917f08776a16e1709cf1",
     "url": "/my-portfolio/static/media/background.a60b5d1d.jpg"
   },
@@ -72,19 +80,19 @@ self.__precacheManifest = [
     "url": "/my-portfolio/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
-    "revision": "b06871f281fee6b241d60582ae9369b9",
-    "url": "/my-portfolio/static/media/fontawesome-webfont.b06871f2.ttf"
-  },
-  {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
     "url": "/my-portfolio/static/media/fontawesome-webfont.674f50d2.eot"
+  },
+  {
+    "revision": "b06871f281fee6b241d60582ae9369b9",
+    "url": "/my-portfolio/static/media/fontawesome-webfont.b06871f2.ttf"
   },
   {
     "revision": "912ec66d7572ff821749319396470bde",
     "url": "/my-portfolio/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "1a1b0ecb55d4007cca37229a51a9334f",
+    "revision": "5d8dd51f5dbd3b63c61e8a534aa3d809",
     "url": "/my-portfolio/index.html"
   }
 ];
