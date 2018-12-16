@@ -7,6 +7,9 @@ let Projects = [
     description: [
       "Role: Web Development",
       "Used technologies: React.js, Node.js, Express and Mongo.DB.",
+      "Styling: CSS",
+      "Role: Web Development",
+      "Used technologies: React.js, Node.js, Express and Mongo.DB.",
       "Styling: CSS"
     ]
   },
@@ -14,6 +17,9 @@ let Projects = [
     title: "Seasonal Cuisine",
     img: me,
     description: [
+      "Role: Web Development",
+      "Used technologies: React.js, Node.js, Express and Mongo.DB.",
+      "Styling: CSS",
       "Role: Web Development",
       "Used technologies: React.js, Node.js, Express and Mongo.DB.",
       "Styling: CSS"
@@ -25,6 +31,9 @@ let Projects = [
     description: [
       "Role: Web Development",
       "Used technologies: React.js, Node.js, Express and Mongo.DB.",
+      "Styling: CSS",
+      "Role: Web Development",
+      "Used technologies: React.js, Node.js, Express and Mongo.DB.",
       "Styling: CSS"
     ]
   },
@@ -32,6 +41,9 @@ let Projects = [
     title: "Digital Bee Line",
     img: me,
     description: [
+      "Role: Web Development",
+      "Used technologies: React.js, Node.js, Express and Mongo.DB.",
+      "Styling: CSS",
       "Role: Web Development",
       "Used technologies: React.js, Node.js, Express and Mongo.DB.",
       "Styling: CSS"
