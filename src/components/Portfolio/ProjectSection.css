@@ -11,7 +11,7 @@
   margin-bottom: 3rem;
   font-size: 3rem;
   font-weight: 800;
-  opacity: 0.6;
+  color: #c0c0c0;
 }
 .wrap-image-project {
   padding: 1rem;
@@ -22,8 +22,9 @@
   font-size: 1rem;
   font-weight: normal;
   list-style: none;
+  color: white;
 }
-@media(min-width: 700px){
+@media (min-width: 700px) {
   .wrap-project {
     display: flex;
     align-items: center;
@@ -31,7 +32,6 @@
   }
   .wrap-img-title {
     width: 70%;
-    padding: 0 5rem 0 0;
     margin-top: 8rem;
     position: relative;
   }
@@ -49,8 +49,7 @@
   .project-title {
     position: absolute;
     top: -15%;
-    left: 0;
+    padding: 1rem;
     font-size: 3rem;
-    color: grey;
   }
 }

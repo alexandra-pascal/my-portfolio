@@ -10,9 +10,12 @@ export default function Portfolio() {
         <ProjectSection
           key={index}
           title={project.title}
-          image={project.img}
-          description={project.description.map((desc, index) => (
-            <li key={index} className="li-description">{desc}</li>
+          imageBig={project.imgBig}
+          imageSmall={project.imgSmall}
+          description={project.description.map((eachDescription, index) => (
+            <li key={index} className="li-description">
+              {eachDescription}
+            </li>
           ))}
         />
       ))}
