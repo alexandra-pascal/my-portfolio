@@ -1,12 +1,15 @@
 import gdc from "./../img/gdc.jpg";
+import gdcSmall from "./../img/gdc-small.jpg";
 import kodflix from "./../img/kodflix.jpg";
-import dbl from "./../img/dbl.jpg";
+import kodflixSmall from "./../img/kodflix-small.jpg";
 import sc from "./../img/sc.jpg";
+import scSmall from "./../img/sc-small.jpg";
 
 let Projects = [
   {
     title: "Kodflix",
-    img: kodflix,
+    imgBig: kodflix,
+    imgSmall: kodflixSmall,
     description: [
       "Role: Web Development",
       "Description: A full stack project simulating the production of Netflix",
@@ -16,30 +19,31 @@ let Projects = [
   },
   {
     title: "Seasonal Cuisine",
-    img: sc,
+    imgBig: sc,
+    imgSmall: scSmall,
     description: [
       "Role: UI/UX/ Web Development",
-      "Description: Front-end project for a cuisine app where the user can filter their favourite dish for Christmas dinner from several recipes from different countries, types of food and dietary restrictions",
+      "Description: Front-end-development project for a cuisine app where the user can filter their favourite dish for Christmas dinner from several recipes from different countries, types of food and dietary restrictions",
       "Used technologies: React.js",
-      "Styling: CSS",
+      "Styling: CSS"
     ]
   },
   {
     title: "Gentle Dental Care",
-    img: gdc,
+    imgBig: gdc,
+    imgSmall: gdcSmall,
     description: [
       "Role: Branding / UI/UX/ Web Development",
-      "Description: A static website, presenting the image of Gentle Dental Care practice online",
+      "Description: A static website, fully responsive, presenting the image of Gentle Dental Care practice online",
       "Used technologies: Vue.js",
-      "Styling: SCSS",
+      "Styling: SCSS"
     ]
   },
   {
-    title: "Digital Bee Line",
-    img: dbl,
+    title: "London Dental Specialists",
     description: [
-      "Role: UX/UI",
-      "Description: A static website, created for a small Creative Digital Agency where the main provided services are web design and web development",
+      "Role: Branding / UX/UI",
+      "Description: A mobile first application presentating the London Dental Specialists dental practice"
     ]
   }
 ];
