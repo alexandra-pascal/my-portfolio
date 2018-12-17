@@ -1,0 +1,9 @@
+.skills-wrap {
+  display: flex;
+  flex-direction: column;
+}
+@media (min-width: 700px) {
+  .skills-wrap {
+    flex-direction: row;
+  }
+}
