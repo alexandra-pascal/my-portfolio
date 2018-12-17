@@ -36,7 +36,7 @@ let Projects = [
   },
   {
     id: "gentle-dental-care",
-    link: "​seasonal-cuisine.herokuapp.com/",
+    link: "​gdc.x-el.me/",
     title: "Gentle Dental Care",
     imgBig: gdc,
     imgSmall: gdcSmall,
@@ -49,7 +49,7 @@ let Projects = [
   },
   {
     id: "london-dental-specialists",
-    link: "​https://x-el.me/",
+    link: "​x-el.me/",
     title: "London Dental Specialists",
     imgBig: lds,
     imgSmall: ldsSmall,
