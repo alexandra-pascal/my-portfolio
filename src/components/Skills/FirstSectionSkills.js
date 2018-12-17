@@ -9,7 +9,7 @@ export default function FirstSectionSkills() {
       <img src={Background} alt="hero-mobile" className="backgroung-skills" />
       <div className="wrap-text-skills">
         <p className="big-title-skills">Love to design</p>
-        <p className="title-skills">Love to design</p>
+        <p className="title-skills">Love to develop</p>
         <div className="wrap-line-skills">
           <WhiteLine />
         </div>

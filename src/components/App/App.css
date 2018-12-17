@@ -18,6 +18,7 @@ img {
 }
 main {
   flex: 1;
+  background: #001d25;
   background: #011015;
   color: white;
 }

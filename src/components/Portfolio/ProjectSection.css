@@ -1,11 +1,10 @@
 .wrap-project {
-  background: #012d39;
   color: white;
   padding: 8rem 0 1rem;
   position: relative;
 }
 .project-title, .description-of-project {
-  width: 90%;
+  width: 85%;
   margin: auto;
   font-size: 2rem;
   margin-bottom: 3rem;
@@ -14,7 +13,7 @@
   color: #c0c0c0;
 }
 .wrap-image-project {
-  padding: 1rem;
+  padding: 1rem 1.5rem;
   height: 430px;
 }
 .description-of-project {
@@ -38,7 +37,7 @@
     padding: 0;
   }
   .wrap-image-project {
-    padding: 2rem;
+    padding: 2rem 4rem;
     height: 500px;
 }
   .wrap-img-title {
@@ -60,7 +59,7 @@
   .project-title {
     position: absolute;
     top: -20%;
-    padding: 2rem;
+    padding: 2rem 4rem;
     font-size: 3rem;
   }
   .link-portfolio{

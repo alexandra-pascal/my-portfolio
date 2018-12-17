@@ -9,9 +9,9 @@
   font-size: 1rem;
   outline: none;
   cursor: pointer;
-  transition: background 1s ease-out;
+  transition: 1s;
 }
 .button:hover {
-  background: rgba(35, 224, 225, 0.3);
-  border: .5px solid #23e0e1;
+  color: #fa923f;
+  border: .6px solid #fa923f;
 }
