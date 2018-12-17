@@ -22,7 +22,12 @@ export default function Portfolio(props) {
       </div>
       <div className="description-of-project">
         <div>{props.description}</div>
-        <a href={props.link} target="_blank" rel="noreferrer noopener">
+        {/* Add fix for external links. React was redirecting all the links to the home page */}
+        <a
+          href={`https://${props.link}`}
+          target="_blank"
+          rel="noreferrer noopener"
+        >
           <div className="link-portfolio">Visit Page</div>
         </a>
       </div>

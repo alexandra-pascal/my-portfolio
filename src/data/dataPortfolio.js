@@ -10,7 +10,7 @@ import ldsSmall from "./../img/lds-small.jpg";
 let Projects = [
   {
     id: "kodflix",
-    link: '​https://kodflix-alexandra-pascal.herokuapp.com/',
+    link: "​kodflix-alexandra-pascal.herokuapp.com",
     title: "Kodflix",
     imgBig: kodflix,
     imgSmall: kodflixSmall,
@@ -23,20 +23,20 @@ let Projects = [
   },
   {
     id: "seasonal-cuisine",
-    link: '​http://seasonal-cuisine.herokuapp.com/',
+    link: "​seasonal-cuisine.herokuapp.com/",
     title: "Seasonal Cuisine",
     imgBig: sc,
     imgSmall: scSmall,
     description: [
       "Role: UI/UX/ Web Development",
-      "Description: Front-end-development project for a cuisine app where the user can filter their favourite dish for Christmas dinner from several recipes from different countries, types of food and dietary restrictions",
+      "Description: Front-end-development project for a cuisine app where the user can filter their favourite dish for Christmas dinner from several recipes from different countries, types of link: and dietary restrictions",
       "Used technologies: React.js",
       "Styling: CSS"
     ]
   },
   {
     id: "gentle-dental-care",
-    link: '​http://seasonal-cuisine.herokuapp.com/',
+    link: "​seasonal-cuisine.herokuapp.com/",
     title: "Gentle Dental Care",
     imgBig: gdc,
     imgSmall: gdcSmall,
@@ -49,7 +49,7 @@ let Projects = [
   },
   {
     id: "london-dental-specialists",
-    link: '​https://x-el.me/',
+    link: "​https://x-el.me/",
     title: "London Dental Specialists",
     imgBig: lds,
     imgSmall: ldsSmall,
