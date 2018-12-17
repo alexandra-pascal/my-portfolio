@@ -1,0 +1,25 @@
+.second-section-skills-wrap {
+  width: 70%;
+  margin: 5rem auto;
+}
+.skills-title {
+  font-size: 2.5rem;
+  margin-bottom: 3rem;
+}
+.item-skills {
+  font-family: "Poiret One";
+  font-size: 1.3rem;
+  margin-bottom: 0.5rem;
+}
+
+@media (min-width: 700px) {
+  .second-section-skills-wrap {
+    flex: 1;
+    background: white;
+    color: black;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
