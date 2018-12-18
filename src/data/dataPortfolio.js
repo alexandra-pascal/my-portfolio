@@ -23,7 +23,7 @@ let Projects = [
   },
   {
     id: "seasonal-cuisine",
-    link: "​seasonal-cuisine.herokuapp.com/",
+    link: "​keyboardbreaker.github.io/seasonal-cuisine/#/",
     title: "Seasonal Cuisine",
     imgBig: sc,
     imgSmall: scSmall,
