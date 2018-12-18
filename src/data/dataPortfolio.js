@@ -29,7 +29,7 @@ let Projects = [
     imgSmall: scSmall,
     description: [
       "Role: UI/UX/ Web Development",
-      "Description: Front-end-development project for a cuisine app where the user can filter their favourite dish for Christmas dinner from several recipes from different countries, types of link: and dietary restrictions",
+      "Description: Front-end-development project for a cuisine app where the user can filter their favourite dish for Christmas dinner from several recipes from different countries, types of food and dietary restrictions",
       "Used technologies: React.js",
       "Styling: CSS"
     ]

@@ -15,9 +15,7 @@ export default function FirstSection() {
           <WhiteLine />
         </div>
         <p className="contact-text">
-          Lorem Ipsum is simply dummy text of the printing and typesetting
-          industry. Lorem Ipsum has been the industry's standard dummy text ever
-          since the.
+          Let's build something together. Feel free to reach out by email. Have a project you would like to discuss?
         </p>
         <a href="mailto:alexandra.pascal88@yahoo.com">
           <Button buttonText="Get in touch" />
