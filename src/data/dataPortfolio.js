@@ -9,19 +9,6 @@ import ldsSmall from "./../img/lds-small.jpg";
 
 let Projects = [
   {
-    id: "kodflix",
-    link: "​kodflix-alexandra-pascal.herokuapp.com",
-    title: "Kodflix",
-    imgBig: kodflix,
-    imgSmall: kodflixSmall,
-    description: [
-      "Role: Web Development",
-      "Description: A full stack project simulating the production of Netflix",
-      "Used technologies: React.js, Node.js, Express and Mongo.DB",
-      "Styling: CSS"
-    ]
-  },
-  {
     id: "seasonal-cuisine",
     link: "​kodiri.github.io/seasonal-cuisine/#/",
     title: "Seasonal Cuisine",
@@ -45,6 +32,19 @@ let Projects = [
       "Description: A static website, fully responsive, presenting the image of Gentle Dental Care practice online",
       "Used technologies: Vue.js",
       "Styling: SCSS"
+    ]
+  },
+  {
+    id: "kodflix",
+    link: "​kodflix-alexandra-pascal.herokuapp.com",
+    title: "Kodflix",
+    imgBig: kodflix,
+    imgSmall: kodflixSmall,
+    description: [
+      "Role: Web Development",
+      "Description: A full stack project simulating the production of Netflix",
+      "Used technologies: React.js, Node.js, Express and Mongo.DB",
+      "Styling: CSS"
     ]
   },
   {
