@@ -9,19 +9,6 @@ import ldsSmall from "./../img/lds-small.jpg";
 
 let Projects = [
   {
-    id: "seasonal-cuisine",
-    link: "​kodiri.github.io/seasonal-cuisine/#/",
-    title: "Seasonal Cuisine",
-    imgBig: sc,
-    imgSmall: scSmall,
-    description: [
-      "Role: UI/UX/ Web Development",
-      "Description: Front-end-development project for a cuisine app where the user can filter their favourite dish for Christmas dinner from several recipes from different countries, types of food and dietary restrictions",
-      "Used technologies: React.js",
-      "Styling: CSS"
-    ]
-  },
-  {
     id: "gentle-dental-care",
     link: "​gdc.x-el.me/",
     title: "Gentle Dental Care",
@@ -32,6 +19,19 @@ let Projects = [
       "Description: A static website, fully responsive, presenting the image of Gentle Dental Care practice online",
       "Used technologies: Vue.js",
       "Styling: SCSS"
+    ]
+  },
+  {
+    id: "seasonal-cuisine",
+    link: "​kodiri.github.io/seasonal-cuisine/#/",
+    title: "Seasonal Cuisine",
+    imgBig: sc,
+    imgSmall: scSmall,
+    description: [
+      "Role: UI/UX/ Web Development",
+      "Description: Front-end-development project for a cuisine app where the user can filter their favourite dish for Christmas dinner from several recipes from different countries, types of food and dietary restrictions",
+      "Used technologies: React.js",
+      "Styling: CSS"
     ]
   },
   {
