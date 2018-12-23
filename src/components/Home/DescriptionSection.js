@@ -6,7 +6,7 @@ export default function DescriptionSection() {
     <div className="description-section-wrap">
       <li className="description-title">Front-end developer</li>
       <p className="description-text">
-        JavaScript, responsive HTML/CSS, animations, React.js. These are the tools
+        JavaScript, responsive HTML, CSS, animations, React.js. These are the tools
         that help me bring to life my projects
       </p>
       <p className="description-text">
