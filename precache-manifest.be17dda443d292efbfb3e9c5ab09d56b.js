@@ -1,23 +1,27 @@
 self.__precacheManifest = [
   {
-    "revision": "be1acccddd8dbcdd27d2",
-    "url": "/my-portfolio/static/css/main.a327c199.chunk.css"
+    "revision": "0e08b0fa2136c6535a4b",
+    "url": "/my-portfolio/static/css/main.59400b66.chunk.css"
   },
   {
-    "revision": "be1acccddd8dbcdd27d2",
-    "url": "/my-portfolio/static/js/main.be1acccd.chunk.js"
+    "revision": "0e08b0fa2136c6535a4b",
+    "url": "/my-portfolio/static/js/main.0e08b0fa.chunk.js"
   },
   {
-    "revision": "bfcd9270ed7ada13fd39",
-    "url": "/my-portfolio/static/css/1.4ab21509.chunk.css"
+    "revision": "725baaf8616270333ef3",
+    "url": "/my-portfolio/static/css/1.c08df276.chunk.css"
   },
   {
-    "revision": "bfcd9270ed7ada13fd39",
-    "url": "/my-portfolio/static/js/1.bfcd9270.chunk.js"
+    "revision": "725baaf8616270333ef3",
+    "url": "/my-portfolio/static/js/1.725baaf8.chunk.js"
   },
   {
     "revision": "f2bb3e8d5477afa4b7c6",
     "url": "/my-portfolio/static/js/runtime~main.f2bb3e8d.js"
+  },
+  {
+    "revision": "4ae9cfef4cfc265225689f3b43644670",
+    "url": "/my-portfolio/static/media/mob-gdc.4ae9cfef.png"
   },
   {
     "revision": "e5d08dedd4ad80ac5d5eeb27817876ee",
@@ -88,7 +92,7 @@ self.__precacheManifest = [
     "url": "/my-portfolio/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "a1096b9be83390f840e2588921e20620",
+    "revision": "6abe8438b00d0a760ebffeb2081c0b20",
     "url": "/my-portfolio/index.html"
   }
 ];
