@@ -24,11 +24,10 @@ export default class ProjectPage extends React.Component {
     return (
       <div className="wrap-project">
         <div className="first-section-project">
-          <div className="project-title2">Gentle Dental Care</div>
+          <div className="project-title2">{project3.title}</div>
           <div className="img">
             <img src={project3.mockupMob} alt="project" />
           </div>
-
           <div className="project-description">
             {project3.projectDescription.map((eachDescription, index) => (
               <li key={index} className="li-description">
