@@ -1,0 +1,41 @@
+.project-title2 {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 3rem;
+}
+.project-description {
+  width: 80%;
+  margin: 3rem auto;
+  list-style: none;
+}
+@media(min-width: 700px) {
+  .wrap-project {
+    display: flex;
+  }
+  .first-section-project {
+    position: relative;
+    width: 70%;
+  }
+  .project-title2 {
+    text-align: left;
+    margin-left: 15%;
+    font-size: 3rem;
+  }
+  .img {
+    position: absolute;
+    top: 50%;
+    right: -30%;
+    transform: translate(10%, -50%);
+    width: 500px;
+  }
+  .project-description {
+    width: 45%;
+    margin: 4rem 2rem 6rem 15%;
+  }
+  .second-section-project {
+    flex: 1;
+    height: 100vh;
+    background: white;
+    color: black;
+  }
+}
