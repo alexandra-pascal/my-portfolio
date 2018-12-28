@@ -7,6 +7,13 @@ import scSmall from "./../img/sc-small.jpg";
 import lds from "./../img/lds.jpg";
 import ldsSmall from "./../img/lds-small.jpg";
 import mobGdc from "./../img/mob-gdc.png";
+import mobSC from "./../img/mob-SC.png";
+import mobKod from "./../img/mob-kod.png";
+import mobLDS from "./../img/mob-LDS.png";
+import deskGdc from "./../img/desk-gdc.jpg";
+import deskSC from "./../img/desk-SC.jpg";
+import deskKod from "./../img/desk-kod.jpg";
+import deskLDS from "./../img/desk-LDS.jpg";
 
 let Projects = [
   {
@@ -23,8 +30,14 @@ let Projects = [
     ],
     mockupMob: mobGdc,
     projectDescription: [
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-      "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable"
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard",
+      "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which"
+    ],
+    mockupDesk: deskGdc,
+    desktopDescription: [
+      "DESKTOP",
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has",
+      "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form"
     ]
   },
   {
@@ -39,10 +52,16 @@ let Projects = [
       "Used technologies: React.js",
       "Styling: CSS"
     ],
-    mockupMob: mobGdc,
+    mockupMob: mobSC,
     projectDescription: [
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-      "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators"
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry",
+      "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour"
+    ],
+    mockupDesk: deskSC,
+    desktopDescription: [
+      "DESKTOP",
+      "aaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+      "aaaThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour"
     ]
   },
   {
@@ -57,10 +76,16 @@ let Projects = [
       "Used technologies: React.js, Node.js, Express and Mongo.DB",
       "Styling: CSS"
     ],
-    mockupMob: mobGdc,
+    mockupMob: mobKod,
     projectDescription: [
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-      "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators"
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ",
+      "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour"
+    ],
+    mockupDesk: deskKod,
+    desktopDescription: [
+      "DESKTOP",
+      "aaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been ",
+      "aaaThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humou"
     ]
   },
   {
@@ -73,10 +98,16 @@ let Projects = [
       "Role: Branding / UX/UI",
       "Description: A mobile first application presentating the London Dental Specialists dental practice"
     ],
-    mockupMob: mobGdc,
+    mockupMob: mobLDS,
     projectDescription: [
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-      "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators"
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+      "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form"
+    ],
+    mockupDesk: deskLDS,
+    desktopDescription: [
+      "DESKTOP",
+      "aaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry",
+      "aaaThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form. If you are going to use a passage of Lorem Ipsum"
     ]
   }
 ];
