@@ -1,27 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "0e08b0fa2136c6535a4b",
-    "url": "/my-portfolio/static/css/main.59400b66.chunk.css"
+    "revision": "f73f340f0a08948f6fd8",
+    "url": "/my-portfolio/static/css/main.49c6c88b.chunk.css"
   },
   {
-    "revision": "0e08b0fa2136c6535a4b",
-    "url": "/my-portfolio/static/js/main.0e08b0fa.chunk.js"
+    "revision": "f73f340f0a08948f6fd8",
+    "url": "/my-portfolio/static/js/main.f73f340f.chunk.js"
   },
   {
-    "revision": "725baaf8616270333ef3",
-    "url": "/my-portfolio/static/css/1.c08df276.chunk.css"
+    "revision": "058de7381410f58c9393",
+    "url": "/my-portfolio/static/css/1.219b5296.chunk.css"
   },
   {
-    "revision": "725baaf8616270333ef3",
-    "url": "/my-portfolio/static/js/1.725baaf8.chunk.js"
+    "revision": "058de7381410f58c9393",
+    "url": "/my-portfolio/static/js/1.058de738.chunk.js"
   },
   {
     "revision": "f2bb3e8d5477afa4b7c6",
     "url": "/my-portfolio/static/js/runtime~main.f2bb3e8d.js"
-  },
-  {
-    "revision": "4ae9cfef4cfc265225689f3b43644670",
-    "url": "/my-portfolio/static/media/mob-gdc.4ae9cfef.png"
   },
   {
     "revision": "e5d08dedd4ad80ac5d5eeb27817876ee",
@@ -72,6 +68,38 @@ self.__precacheManifest = [
     "url": "/my-portfolio/static/media/lds-small.6ec03c65.jpg"
   },
   {
+    "revision": "4ae9cfef4cfc265225689f3b43644670",
+    "url": "/my-portfolio/static/media/mob-gdc.4ae9cfef.png"
+  },
+  {
+    "revision": "b589a68d4960e82ce7739a6044f434f4",
+    "url": "/my-portfolio/static/media/mob-SC.b589a68d.png"
+  },
+  {
+    "revision": "5e6a897170b834e3849a23315165568b",
+    "url": "/my-portfolio/static/media/mob-kod.5e6a8971.png"
+  },
+  {
+    "revision": "b8e132a87e2bc5ec722531b3efb4f280",
+    "url": "/my-portfolio/static/media/mob-LDS.b8e132a8.png"
+  },
+  {
+    "revision": "cc1ca2f1c4527659d654bfca64809ce2",
+    "url": "/my-portfolio/static/media/desk-gdc.cc1ca2f1.jpg"
+  },
+  {
+    "revision": "7bfd58a294cbae2e52f8d965e16174f6",
+    "url": "/my-portfolio/static/media/desk-SC.7bfd58a2.jpg"
+  },
+  {
+    "revision": "20caa2636bb0a4628a7136c58921632e",
+    "url": "/my-portfolio/static/media/desk-kod.20caa263.jpg"
+  },
+  {
+    "revision": "2b71164dc3d219c2ed5cb2194efcb069",
+    "url": "/my-portfolio/static/media/desk-LDS.2b71164d.jpg"
+  },
+  {
     "revision": "af7ae505a9eed503f8b8e6982036873e",
     "url": "/my-portfolio/static/media/fontawesome-webfont.af7ae505.woff2"
   },
@@ -92,7 +120,7 @@ self.__precacheManifest = [
     "url": "/my-portfolio/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "6abe8438b00d0a760ebffeb2081c0b20",
+    "revision": "6074154019ad010b6f7894280dbab8a3",
     "url": "/my-portfolio/index.html"
   }
 ];
