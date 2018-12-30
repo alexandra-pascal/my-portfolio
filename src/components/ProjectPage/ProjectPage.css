@@ -29,6 +29,7 @@ ul li {
     align-items: center;
   }
   .project-title2 {
+    width: 50%;
     text-align: left;
     margin: 6rem 0 0 15%;
     font-size: 3rem;

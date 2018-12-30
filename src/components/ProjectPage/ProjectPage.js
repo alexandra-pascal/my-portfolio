@@ -15,9 +15,19 @@ export default class ProjectPage extends React.Component {
 
   componentDidMount() {
     let projectData = Projects.find(
-      project => project.id === this.props.match.params.coverId
+      project => project.id === this.props.match.params.projectId
     );
     this.setState({ project: projectData });
+  }
+
+  nextProject = () => {
+    let index = Projects.indexOf(this.state.project) + 1;
+    if (index > Projects.length - 1) {
+      index = 0;
+    }
+
+    const nextProj = Projects[index];
+    this.setState({ project: nextProj })
   }
 
   render() {
@@ -56,6 +66,7 @@ export default class ProjectPage extends React.Component {
                 </ul>
               ))}
             </div>
+            <button onClick={this.nextProject}>next</button>
           </div>
         </div>
       </div>
