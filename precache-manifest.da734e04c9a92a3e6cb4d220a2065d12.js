@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "f73f340f0a08948f6fd8",
-    "url": "/my-portfolio/static/css/main.49c6c88b.chunk.css"
+    "revision": "faa2511a1d26a1da0be7",
+    "url": "/my-portfolio/static/css/main.53d95a01.chunk.css"
   },
   {
-    "revision": "f73f340f0a08948f6fd8",
-    "url": "/my-portfolio/static/js/main.f73f340f.chunk.js"
+    "revision": "faa2511a1d26a1da0be7",
+    "url": "/my-portfolio/static/js/main.faa2511a.chunk.js"
   },
   {
-    "revision": "058de7381410f58c9393",
-    "url": "/my-portfolio/static/css/1.219b5296.chunk.css"
+    "revision": "ca207ab02553321cf5a9",
+    "url": "/my-portfolio/static/css/1.cd3061c0.chunk.css"
   },
   {
-    "revision": "058de7381410f58c9393",
-    "url": "/my-portfolio/static/js/1.058de738.chunk.js"
+    "revision": "ca207ab02553321cf5a9",
+    "url": "/my-portfolio/static/js/1.ca207ab0.chunk.js"
   },
   {
     "revision": "f2bb3e8d5477afa4b7c6",
@@ -36,12 +36,12 @@ self.__precacheManifest = [
     "url": "/my-portfolio/static/media/white-line.cad37df1.png"
   },
   {
-    "revision": "0cfc2544c35a6883ed3e7a72ff4808f2",
-    "url": "/my-portfolio/static/media/gdc.0cfc2544.jpg"
+    "revision": "de83228bd0529997abaf495a3389617d",
+    "url": "/my-portfolio/static/media/gdc.de83228b.jpg"
   },
   {
-    "revision": "3900b1b346494383c0f6841f5cc36cb0",
-    "url": "/my-portfolio/static/media/gdc-small.3900b1b3.jpg"
+    "revision": "c972ae02f9bd3175011e74c68a4dcb26",
+    "url": "/my-portfolio/static/media/gdc-small.c972ae02.jpg"
   },
   {
     "revision": "3321f7bc918f241676fa36ac01a36e74",
@@ -52,8 +52,8 @@ self.__precacheManifest = [
     "url": "/my-portfolio/static/media/kodflix-small.ed1e3bb9.jpg"
   },
   {
-    "revision": "e9d1c335f6c104514f784061aca9e720",
-    "url": "/my-portfolio/static/media/sc.e9d1c335.jpg"
+    "revision": "47bdda58706cdef85b3a6fdadadc3906",
+    "url": "/my-portfolio/static/media/sc.47bdda58.jpg"
   },
   {
     "revision": "dbae2103c9318f7a34cbcb5670048df9",
@@ -120,7 +120,7 @@ self.__precacheManifest = [
     "url": "/my-portfolio/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "6074154019ad010b6f7894280dbab8a3",
+    "revision": "6e534a61d8c518130c33b7d6e41bd780",
     "url": "/my-portfolio/index.html"
   }
 ];
