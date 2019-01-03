@@ -22,7 +22,6 @@ export default function Header(props) {
           <li>
             <NavLink activeClassName="active" to="/contact">Contact</NavLink>
           </li>
-          <div class="underbar"></div>
         </ul>
       </nav>
     </header>
