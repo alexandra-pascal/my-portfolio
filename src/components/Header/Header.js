@@ -1,5 +1,5 @@
 import React from "react";
-// import { Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 import { slide as Menu } from "react-burger-menu";
 import Logo from "./../../img/logo.svg";
 import "./Header.css";
@@ -8,9 +8,9 @@ export default function Header(props) {
   return (
     <header className="header">
         <div className="header__logo">
-          <a href="/">
+          <Link to="/">
             <img src={Logo} alt="logo" />
-          </a>
+          </Link>
         </div>
         <Menu right>
           <a href="/" className="menu-link">
