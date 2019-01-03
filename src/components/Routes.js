@@ -10,11 +10,11 @@ export default function Routes() {
   return (
     <div>
       <Switch>
-        <Route exact path="/" component={Home} />
-        <Route path="/portfolio" component={Portfolio} />
-        <Route path="/skills" component={Skills} />
-        <Route path="/contact" component={Contact} />
-        <Route path="/:projectId" component={ProjectPage} />
+        <Route exact path={process.env.PUBLIC_URL + '/'}  component={Home} />
+        <Route path={process.env.PUBLIC_URL + '/portfolio'}  component={Portfolio} />
+        <Route path={process.env.PUBLIC_URL + '/skills'}  component={Skills} />
+        <Route path={process.env.PUBLIC_URL + '/contact'} component={Contact} />
+        <Route path={process.env.PUBLIC_URL + '/:projectId'} component={ProjectPage} />
       </Switch>
     </div>
   );
