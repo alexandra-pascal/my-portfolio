@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router } from "react-router-dom";
+import { HashRouter as Router } from "react-router-dom";
 import ScrollToTop from "react-router-scroll-top";
 import Routes from "./../Routes";
 import Header from "./../Header/Header";
@@ -9,7 +9,7 @@ import "./App.css";
 export default class App extends React.Component {
   render() {
     return (
-      <Router basename={process.env.PUBLIC_URL}>
+      <Router>
         <ScrollToTop>
           <div className="App">
           <Header/>
