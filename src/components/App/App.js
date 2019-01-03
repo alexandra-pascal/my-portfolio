@@ -9,7 +9,7 @@ import "./App.css";
 export default class App extends React.Component {
   render() {
     return (
-      <Router basename={process.env.PUBLIC_URL}>
+      <Router>
         <ScrollToTop>
           <div className="App">
           <Header/>
