@@ -51,14 +51,11 @@ let Projects = [
     ],
     mockupMob: mobSC,
     projectDescription: [
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry",
-      "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour"
+      "A pair-programming application using React.js. Main goal was to create a Christmas theme food application where the user can either look at all the recipes, one by one, presented on the home page, or they can choose one or more recipes by accesing the filter placed in the hero of the app"
     ],
     mockupDesk: deskSC,
     desktopDescription: [
-      "DESKTOP",
-      "aaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
-      "aaaThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour"
+      "Main challenges were to create the responsive design, logo, and to develop the layout for the home page and the recipe page dinamically. Also to create the the filter that helps the user choose a certain type of recipe."
     ]
   },
   {
@@ -70,43 +67,37 @@ let Projects = [
     description: [
       "Role: Web Development",
       "Description: A full stack project simulating the production of Netflix",
-      "Used technologies: React.js, Node.js, Express and Mongo.DB",
+      "Used technologies: React.js",
       "Styling: CSS"
     ],
     mockupMob: mobKod,
     projectDescription: [
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ",
-      "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour"
+      "A work in progress project, for personal practice of React.js library and JavaScript. With a similar design as Netflix, when developing this application the main focus is to gain more web development knowledge"
     ],
     mockupDesk: deskKod,
     desktopDescription: [
-      "DESKTOP",
-      "aaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been ",
-      "aaaThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humou"
+      "Challenges: Start using React.js reusable components, use React Router for navigation, retrieve data from a single js file, deployment of the app, responsive design "
     ]
   },
-  {
-    id: "london-dental-specialists",
-    link: "​x-el.me/",
-    title: "London Dental Specialists",
-    imgBig: lds,
-    imgSmall: ldsSmall,
-    description: [
-      "Role: Branding / UX/UI",
-      "Description: A mobile first application presentating the London Dental Specialists dental practice"
-    ],
-    mockupMob: mobLDS,
-    projectDescription: [
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
-      "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form"
-    ],
-    mockupDesk: deskLDS,
-    desktopDescription: [
-      "DESKTOP",
-      "aaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry",
-      "aaaThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form. If you are going to use a passage of Lorem Ipsum"
-    ]
-  }
+  // {
+  //   id: "london-dental-specialists",
+  //   link: "​x-el.me/",
+  //   title: "London Dental Specialists",
+  //   imgBig: lds,
+  //   imgSmall: ldsSmall,
+  //   description: [
+  //     "Role: Branding / UX/UI",
+  //     "Description: A mobile first application presenting the London Dental Specialists dental practice"
+  //   ],
+  //   mockupMob: mobLDS,
+  //   projectDescription: [
+  //     ""
+  //   ],
+  //   mockupDesk: deskLDS,
+  //   desktopDescription: [
+  //     ""
+  //   ]
+  // }
 ];
 
 export default Projects;
