@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "e9403fa15b2e2c391cf8",
-    "url": "/my-portfolio/static/css/main.ae211582.chunk.css"
+    "revision": "2e58cfcf035e477dccf4",
+    "url": "/my-portfolio/static/css/main.0f0af212.chunk.css"
   },
   {
-    "revision": "e9403fa15b2e2c391cf8",
-    "url": "/my-portfolio/static/js/main.e9403fa1.chunk.js"
+    "revision": "2e58cfcf035e477dccf4",
+    "url": "/my-portfolio/static/js/main.2e58cfcf.chunk.js"
   },
   {
-    "revision": "830547a4b3e4f004d5a5",
-    "url": "/my-portfolio/static/css/1.c08df276.chunk.css"
+    "revision": "59b972a03907912d3802",
+    "url": "/my-portfolio/static/css/1.d46b9d13.chunk.css"
   },
   {
-    "revision": "830547a4b3e4f004d5a5",
-    "url": "/my-portfolio/static/js/1.830547a4.chunk.js"
+    "revision": "59b972a03907912d3802",
+    "url": "/my-portfolio/static/js/1.59b972a0.chunk.js"
   },
   {
     "revision": "f2bb3e8d5477afa4b7c6",
@@ -84,22 +84,6 @@ self.__precacheManifest = [
     "url": "/my-portfolio/static/media/logo.c22c7a7c.svg"
   },
   {
-    "revision": "7485c0927cd1be8875a9fa98909860a7",
-    "url": "/my-portfolio/static/media/lds.7485c092.jpg"
-  },
-  {
-    "revision": "6ec03c65082e75b454a3aaa05a5ca945",
-    "url": "/my-portfolio/static/media/lds-small.6ec03c65.jpg"
-  },
-  {
-    "revision": "2499d31b819ede74692b930eb744571f",
-    "url": "/my-portfolio/static/media/mob-LDS.2499d31b.png"
-  },
-  {
-    "revision": "226fbf186290bd5bad4253c69974b48b",
-    "url": "/my-portfolio/static/media/desk-LDS.226fbf18.jpg"
-  },
-  {
     "revision": "af7ae505a9eed503f8b8e6982036873e",
     "url": "/my-portfolio/static/media/fontawesome-webfont.af7ae505.woff2"
   },
@@ -120,7 +104,7 @@ self.__precacheManifest = [
     "url": "/my-portfolio/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "d3deff76d638456180ac516034ff5d9a",
+    "revision": "c4cd8e474563e6e21a61d50272c6a607",
     "url": "/my-portfolio/index.html"
   }
 ];
