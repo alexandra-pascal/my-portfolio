@@ -56,7 +56,6 @@ export default class ProjectPage extends React.Component {
                 </ul>
               ))}
             </div>
-            <button onClick={this.nextProject}>next</button>
           </div>
         </div>
       </div>
