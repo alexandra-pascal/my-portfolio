@@ -30,14 +30,11 @@ let Projects = [
     ],
     mockupMob: mobGdc,
     projectDescription: [
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard",
-      "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which"
+      "The main goal, when designing and developing the code for Gentle Dental Care website was to create a gentle and clean online image that would reflect the kind environment and the good treatment this dental practice has to offer",
     ],
     mockupDesk: deskGdc,
     desktopDescription: [
-      "DESKTOP",
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has",
-      "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form"
+      "Having the role of designer and developer for this project, I encountered multiple challenges, such as making sure the design looks good and works on all of devices. Having multiple types of user in mind that would benefit from the dental practice services, I created a clean layout, simple to use interface with few animations that would emphasize some of the titles and buttons"
     ]
   },
   {
