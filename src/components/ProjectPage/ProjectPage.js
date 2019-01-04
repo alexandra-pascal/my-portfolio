@@ -20,16 +20,6 @@ export default class ProjectPage extends React.Component {
     this.setState({ project: projectData });
   }
 
-  nextProject = () => {
-    let index = Projects.indexOf(this.state.project) + 1;
-    if (index > Projects.length - 1) {
-      index = 0;
-    }
-
-    const nextProj = Projects[index];
-    this.setState({ project: nextProj })
-  }
-
   render() {
     let project3 = this.state.project;
     return (
