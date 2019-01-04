@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "97b58dcb3a72e7b15b6a",
+    "revision": "786c8aac58545d7a9739",
     "url": "/my-portfolio/static/css/main.282e2d21.chunk.css"
   },
   {
-    "revision": "97b58dcb3a72e7b15b6a",
-    "url": "/my-portfolio/static/js/main.97b58dcb.chunk.js"
+    "revision": "786c8aac58545d7a9739",
+    "url": "/my-portfolio/static/js/main.786c8aac.chunk.js"
   },
   {
     "revision": "58829d7db808c8234a92",
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/my-portfolio/static/media/background.e5d08ded.jpg"
   },
   {
-    "revision": "292432b364893ddb710ae9ace970df46",
-    "url": "/my-portfolio/static/media/me-green.292432b3.jpg"
+    "revision": "a7584947014f63ec9286028576f9ad90",
+    "url": "/my-portfolio/static/media/me-green.a7584947.jpg"
   },
   {
     "revision": "cad37df1d11a4ad64bae1444547b20a5",
@@ -40,44 +40,44 @@ self.__precacheManifest = [
     "url": "/my-portfolio/static/media/gdc-small.c972ae02.jpg"
   },
   {
-    "revision": "178f6e7692be56d56cb8193cde915c6e",
-    "url": "/my-portfolio/static/media/kodflix.178f6e76.jpg"
+    "revision": "34f6830b866f150add49898e2b6261d3",
+    "url": "/my-portfolio/static/media/kodflix.34f6830b.jpg"
   },
   {
     "revision": "ed1e3bb9fe1516815d6e85d606578713",
     "url": "/my-portfolio/static/media/kodflix-small.ed1e3bb9.jpg"
   },
   {
-    "revision": "7a53a8c3f04dc0f3d51da78b9ae164e7",
-    "url": "/my-portfolio/static/media/sc.7a53a8c3.jpg"
+    "revision": "e3f721505b699efd304398f849ffe7a3",
+    "url": "/my-portfolio/static/media/sc.e3f72150.jpg"
   },
   {
     "revision": "dbae2103c9318f7a34cbcb5670048df9",
     "url": "/my-portfolio/static/media/sc-small.dbae2103.jpg"
   },
   {
-    "revision": "571811f5a4e11553df7c2d7b7dc96cac",
-    "url": "/my-portfolio/static/media/lds.571811f5.jpg"
+    "revision": "7485c0927cd1be8875a9fa98909860a7",
+    "url": "/my-portfolio/static/media/lds.7485c092.jpg"
   },
   {
     "revision": "6ec03c65082e75b454a3aaa05a5ca945",
     "url": "/my-portfolio/static/media/lds-small.6ec03c65.jpg"
   },
   {
-    "revision": "c9988f61c9d9147c756c5bbd22c7a05c",
-    "url": "/my-portfolio/static/media/mob-gdc.c9988f61.png"
+    "revision": "45a141e4f0a14b11b4ce56c219633b64",
+    "url": "/my-portfolio/static/media/mob-gdc.45a141e4.png"
   },
   {
-    "revision": "03d2e8dadebb4d1b21bf76d9c5bd15a4",
-    "url": "/my-portfolio/static/media/mob-SC.03d2e8da.png"
+    "revision": "9a96d060807262ff605923c125479958",
+    "url": "/my-portfolio/static/media/mob-SC.9a96d060.png"
   },
   {
-    "revision": "b82186c5151170efd388fa7903cfc456",
-    "url": "/my-portfolio/static/media/mob-kod.b82186c5.png"
+    "revision": "62e4b27e2918e104937bbc64a03f14a3",
+    "url": "/my-portfolio/static/media/mob-kod.62e4b27e.png"
   },
   {
-    "revision": "052e008367fc22c10c3de93a97c6a333",
-    "url": "/my-portfolio/static/media/mob-LDS.052e0083.png"
+    "revision": "2499d31b819ede74692b930eb744571f",
+    "url": "/my-portfolio/static/media/mob-LDS.2499d31b.png"
   },
   {
     "revision": "95e2016477bb7f27d91b9ab612215517",
@@ -120,7 +120,7 @@ self.__precacheManifest = [
     "url": "/my-portfolio/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "f045caaf25795a7e3580cb3eb2de3814",
+    "revision": "0fb453c5eee35b7f8f1972f84dfc27f6",
     "url": "/my-portfolio/index.html"
   }
 ];
